@@ -1,0 +1,5 @@
+Favorite color: Red
+Favorite food: Fatut	
+Favorite musician/band: Metallica
+Favorite movie: Puss in Boots
+Requested grade in the course: 102
